@@ -1,0 +1,104 @@
+__label__frontend experienced in react javascript and css
+__label__frontend built responsive user interfaces using react and tailwind css
+__label__frontend i am a frontend developer with html css and javascript skills
+__label__frontend worked with vue and angular to create single page applications
+__label__frontend developed reusable react components and used redux for state management
+__label__frontend strong knowledge of typescript react hooks and next js
+__label__frontend designed responsive web pages using bootstrap and flexbox
+__label__frontend created interactive dashboards with react and chart libraries
+__label__frontend experience with vite webpack and modern javascript tooling
+__label__frontend implemented pixel perfect ui from figma designs using html and css
+__label__frontend built accessible web interfaces with semantic html and aria
+__label__frontend skilled in dom manipulation es6 and browser performance optimization
+__label__frontend worked on ui animations using css and javascript
+__label__frontend developed mobile friendly websites with sass and responsive layouts
+__label__frontend comfortable with react router axios and fetch api for building web apps
+__label__frontend wrote unit tests for react components using jest and testing library
+__label__frontend experience building user interfaces with angular and rxjs
+__label__frontend improved page load speed of a javascript web application
+__label__frontend i design and build user friendly web interfaces with react
+__label__frontend expert in css grid html5 and javascript frameworks
+
+__label__java_backend i am a java developer with spring boot experience
+__label__java_backend built rest apis using java spring boot and hibernate
+__label__java_backend experienced in core java collections multithreading and jdbc
+__label__java_backend developed microservices with spring boot and spring cloud
+__label__java_backend worked with maven junit and mockito for java application testing
+__label__java_backend strong knowledge of java oop concepts and design patterns
+__label__java_backend implemented spring security and jwt authentication in java services
+__label__java_backend used jpa and hibernate to connect spring applications to mysql
+__label__java_backend created enterprise applications using java ee and spring mvc
+__label__java_backend experience with java 17 streams lambdas and concurrency
+__label__java_backend developed backend services in java using spring data jpa
+__label__java_backend worked on kafka consumers and producers in java spring boot
+__label__java_backend built scalable java backend systems with spring boot and postgresql
+__label__java_backend skilled in java servlets jsp and spring framework
+__label__java_backend wrote java apis with exception handling and logging using log4j
+__label__java_backend experienced with gradle maven and java build tools
+__label__java_backend i work on java backend development using spring and hibernate
+__label__java_backend designed layered architecture with controllers services and repositories in spring boot
+__label__java_backend strong java programmer with experience in rest web services
+__label__java_backend developed java applications using spring boot and microservices architecture
+
+__label__python_backend experienced in python and fastapi
+__label__python_backend built rest apis using python flask and django
+__label__python_backend i am a python developer with fastapi and sqlalchemy experience
+__label__python_backend worked with django rest framework to build backend services
+__label__python_backend developed asynchronous apis using python fastapi and uvicorn
+__label__python_backend wrote python scripts for automation and backend processing
+__label__python_backend used pydantic for request validation in python web services
+__label__python_backend experience with celery and redis for python background tasks
+__label__python_backend built python backend applications with postgresql and sqlalchemy
+__label__python_backend strong knowledge of python decorators generators and asyncio
+__label__python_backend created python microservices using flask and gunicorn
+__label__python_backend wrote unit tests in python using pytest for api services
+__label__python_backend developed backend logic in python with django orm
+__label__python_backend integrated third party apis using python requests and fastapi
+__label__python_backend experienced with python virtual environments pip and uvicorn
+__label__python_backend implemented jwt authentication in a python fastapi application
+__label__python_backend i build backend systems with python and django
+__label__python_backend developed python web services with flask blueprints
+__label__python_backend skilled in python api development and backend architecture
+__label__python_backend worked on python server side applications using fastapi and pydantic
+
+__label__devops worked with aws docker and kubernetes
+__label__devops built ci cd pipelines using jenkins and github actions
+__label__devops experienced in docker containers and kubernetes orchestration
+__label__devops managed cloud infrastructure on aws using terraform
+__label__devops i am a devops engineer with jenkins docker and aws experience
+__label__devops automated deployments with ansible and shell scripting
+__label__devops set up monitoring using prometheus and grafana
+__label__devops deployed applications on kubernetes clusters using helm charts
+__label__devops worked with azure devops pipelines and infrastructure as code
+__label__devops configured nginx load balancers and linux servers
+__label__devops experience with aws ec2 s3 and cloudwatch for cloud infrastructure
+__label__devops created docker images and managed container registries
+__label__devops implemented gitlab ci pipelines for automated build and release
+__label__devops skilled in terraform ansible and cloud automation
+__label__devops managed linux servers and wrote bash scripts for deployment automation
+__label__devops used kubernetes and docker to deploy scalable applications on the cloud
+__label__devops handled site reliability logging and monitoring with elk stack
+__label__devops experienced with gcp compute engine and kubernetes deployments
+__label__devops configured security groups vpc and iam roles in aws
+__label__devops maintained ci cd workflows and improved deployment speed
+
+__label__data worked with sql and power bi
+__label__data built dashboards using power bi and tableau
+__label__data experienced in sql queries joins and data analysis
+__label__data i am a data analyst with excel sql and power bi skills
+__label__data performed data cleaning and visualization using pandas and matplotlib
+__label__data created etl pipelines for data warehouse using sql and python
+__label__data analyzed sales data and built reports in tableau
+__label__data experience with data modeling and business intelligence tools
+__label__data wrote complex sql queries for reporting and analytics
+__label__data used pandas and numpy for exploratory data analysis
+__label__data built machine learning models with scikit learn for prediction
+__label__data worked with spark and hadoop for big data processing
+__label__data developed power bi reports with dax measures
+__label__data skilled in statistics data visualization and excel pivot tables
+__label__data managed data warehouses using snowflake and sql
+__label__data cleaned large datasets and created insights for business teams
+__label__data experienced in data analytics reporting and dashboard development
+__label__data used sql server and ssis for data integration projects
+__label__data trained classification models and evaluated accuracy using python
+__label__data analyzed customer data and presented insights with charts
